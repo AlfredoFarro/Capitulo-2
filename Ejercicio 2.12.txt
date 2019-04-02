@@ -1,0 +1,10 @@
+Problema 2.12
+a) cout<<x;             2
+b) cout<<x+x;           4
+c) cout<<”x=”;          x=
+d) cout<<”x = “<<x;    	 x = 2
+e) cout<<x + y << “ = ” <<y+x     5 = 5
+f) z = x + y;    NADA
+g) cin>> x>> y;    NADA
+h) // cout<< “x + y =” <<x + y;      NADA
+i) cou<< “/n”;    NADA

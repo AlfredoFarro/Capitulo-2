@@ -1,0 +1,2 @@
+2.14 Dada la ecuación algebraica y = ax ^ 3 + 7, ¿Cuál es el sentido de las siguientes instrucciones (si acaso) en c ++ son correctas para esta ecuación?
+- La respuesta sería "e) y = a (x * x * x) +7;", ya que "x^3" es lo mismo a "x*x*x".

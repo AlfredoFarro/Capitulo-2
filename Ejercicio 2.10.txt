@@ -1,0 +1,6 @@
+PROBLEMA 2.10
+a) Los operadores en C++ se evalúan de izquierda a derecha.     TRUE
+b) Los siguientes nombres de variables son todos validos: _barra_inferior_, m928134, t5, j7, sus_ventas, su_cuenta_total, a, b, c, z, z2.  TRUE
+c) La instrucción cout << “a=5;”; es un ejemplo típico de una instrucción de asignación.  FALSO: porque cout es para la salida de datos en C++.
+d) Una expresión aritmética valida en C++ sin paréntesis se evalua de izquierda a derecha. TRUE
+e) Los siguientes nombres de variables son todos invalidos: 3g, 87, 67h2, h22, 2h. FALSE porque h22 es válido.

@@ -1,0 +1,4 @@
+Problema 2.11
+a) ¿Qué operaciones aritméticas se encuentran en el mismo nivel de precedencia que la multiplicación?  Respuesta: suma y resta pe +cota
+b) Cuando los paréntesis están anidados, ¿Qué conjunto de paréntesis se evalua primero en una expresión aritmética? Se elimina primero el más interno
+c) Una ubicación en la memoria de la computadora que puede contener distintos valores en distintos momentos durante la ejecución de un programa se llama: Variable

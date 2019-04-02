@@ -1,0 +1,5 @@
+Problema 2.13
+a) cin>> b >> c>> d>> e>> f;     SE REEMPLAZA
+b) p= i + j + k + 7;      NO SE REEMPLAZA
+c) cout<< “Variables cuyos valores se reemplazan”;     NO SE REEMPLAZA
+d) cout<< “a = 5”;     NO SE REEMPLAZA

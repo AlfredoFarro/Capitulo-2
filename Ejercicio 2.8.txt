@@ -1,0 +1,6 @@
+2.8:
+a) "Los comentarios" se utilizan para documentar un programa y mejorar su legibilidad.
+b) El objeto que se utiliza para imprimir información en la pantalla es "cout".
+c) Una instrucción de C++ que toma una decisión es "if".
+d) La mayoría de los cálculos se realizan normalmente mediante instrucciones "de declarar variables".
+e) El objeto "cin" recibe valores de entrada del teclado.

@@ -1,0 +1,4 @@
+Problema 2.15
+X = 7 + 3 * 6 / 2 - 1;         DIVISION después MULTIPLICACION luego SUMA y por ultimo RESTA
+X = 2 % 2 + 2 * 2 – 2/ 2;    MODULO después DIVISION luego MULTIPLICACION luego SUMA y al final RESTA
+X = ( 3 * 9 *(3 +(9 * 3 / (3))));     SE EMPIEZA DE ADENTRO HACIA AFUERA
